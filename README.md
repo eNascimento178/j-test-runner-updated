@@ -17,9 +17,9 @@ This repository is a [template repository](https://help.github.com/en/github/cre
 
 Once you're happy with your test runner, [open an issue on the exercism/exercism](https://github.com/exercism/exercism/issues/new?assignees=&labels=&template=new-test-runner.md&title=%5BNew+Test+Runner%5D+) to request an official test runner repository for your track.
 
-# Exercism TRACK_NAME_HERE Test Runner
+# Exercism J Test Runner
 
-The Docker image to automatically run tests on TRACK_NAME_HERE solutions submitted to [Exercism].
+The Docker image to automatically run tests on J solutions submitted to [Exercism].
 
 ## Run the test runner
 
